@@ -18,3 +18,13 @@ Para deixar em **negrito** e em *italico*
 3. Terceiro Item
 4. Ogue
 
+## Código Java
+
+```java
+    public class OlaMundo {
+        public static void main(String args[]) {
+            System.out.printl("Nicolas é gay");
+        }
+    }
+    
+```
