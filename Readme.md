@@ -28,3 +28,7 @@ Para deixar em **negrito** e em *italico*
     }
     
 ```
+
+## Mascote do Java
+
+![Imagem foda do mascote do java](./DukeNTux.jpg)
